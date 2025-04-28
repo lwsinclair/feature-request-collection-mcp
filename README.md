@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/adiletd-feature-request-collection-mcp-badge.jpg)](https://mseep.ai/app/adiletd-feature-request-collection-mcp)
+
 # Supabase MCP Server
 
 This is a Model Context Protocol (MCP) server that connects to Supabase and allows you to query the feature_suggestions table.
